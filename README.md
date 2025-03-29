@@ -67,9 +67,9 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ### 4.1. Overall 
 - Key Observations: : Revenue, Profit & Profit Margin Analysis (2017–2018)
   
-Revenue & Profit Trend: Revenue and profit follow a similar pattern, with noticeable peaks in December and 3 first months of year (holiday season: Christmas, New Year). A moderate increase is observed between March and May, followed by a decline in August and September.
+     - Revenue & Profit Trend: Revenue and profit follow a similar pattern, with noticeable peaks in December and 3 first months of year (holiday season: Christmas, New Year). A moderate increase is observed between March and May, followed by a decline in August and September.
   
-Profit Margin Fluctuations: Profit margin shows an inverse trend compared to revenue. It peaked at 32.47% in August 2017 and gradually declined over time, stabilizing around 26-27% in mid to late 2018.
+     - Profit Margin Fluctuations: Profit margin shows an inverse trend compared to revenue. It peaked at 32.47% in August 2017 and gradually declined over time, stabilizing around 26-27% in mid to late 2018.
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis1.png)
 
 - Recommendations: While revenue and profit increased during peak seasons, the declining profit margin suggests rising costs or pricing adjustments. The company may need to analyze cost structures to maintain profitability.
@@ -78,20 +78,20 @@ Profit Margin Fluctuations: Profit margin shows an inverse trend compared to rev
 ### 4.2 Store 
 - Key Observations:
 
-    Downtown stores dominate revenue (57.35%) and profit (56.51%) but have the lowest profit margin (25.82%).
+     - Downtown stores dominate revenue (57.35%) and profit (56.51%) but have the lowest profit margin (25.82%).
   
-    Residential & Airport stores have the highest profit margins (~27%).
+     - Residential & Airport stores have the highest profit margins (~27%).
   
-    Cuidad de Mexico & Guadalajara are top-performing cities in revenue & profit.
+     - Cuidad de Mexico & Guadalajara are top-performing cities in revenue & profit.
   
-    Smaller cities (Saltillo, Xalapa) contribute less but still maintain profitability.
+     - Smaller cities (Saltillo, Xalapa) contribute less but still maintain profitability.
 
 - Recommendations:
-    Expand in Downtown but optimize costs to improve margins.
+     - Expand in Downtown but optimize costs to improve margins.
 
-    Consider increasing presence in Residential & Airport areas for higher margins.
+     - Consider increasing presence in Residential & Airport areas for higher margins.
 
-    Invest in top cities (Cuidad de Mexico, Guadalajara, Monterrey) for stable growth.
+     - Invest in top cities (Cuidad de Mexico, Guadalajara, Monterrey) for stable growth.
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis2.png)
 
