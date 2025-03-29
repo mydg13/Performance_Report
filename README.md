@@ -44,3 +44,7 @@ Establish one-to-many relationships between dimension tables and the fact table.
 
 ![Data Modelling](https://github.com/mydg13/Performance_Report/blob/main/image/image0.png)
 
+## 3. Performance Report
+
+### 3.1 Revenue Performance
+
