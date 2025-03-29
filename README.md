@@ -48,3 +48,5 @@ Establish one-to-many relationships between dimension tables and the fact table.
 
 ### 3.1 Revenue Performance
 
+![Performance Report](https://github.com/mydg13/
+
