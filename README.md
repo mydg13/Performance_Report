@@ -79,16 +79,26 @@ While revenue and profit increased during peak seasons, the declining profit mar
 
 
 ### 4.2 Store 
-Downtown stores dominate revenue (57.35%) and profit (56.51%) but have the lowest profit margin (25.82%).
-Residential & Airport stores have the highest profit margins (~27%).
-Cuidad de Mexico & Guadalajara are top-performing cities in revenue & profit.
-Smaller cities (Saltillo, Xalapa) contribute less but still maintain profitability.
+- Key Observations:
+
+    Downtown stores dominate revenue (57.35%) and profit (56.51%) but have the lowest profit margin (25.82%).
+  
+    Residential & Airport stores have the highest profit margins (~27%).
+  
+    Cuidad de Mexico & Guadalajara are top-performing cities in revenue & profit.
+  
+    Smaller cities (Saltillo, Xalapa) contribute less but still maintain profitability.
+
+- Recommendations:
+    Expand in Downtown but optimize costs to improve margins.
+
+    Consider increasing presence in Residential & Airport areas for higher margins.
+
+    Invest in top cities (Cuidad de Mexico, Guadalajara, Monterrey) for stable growth.
+
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis2.png)
 
-Recommendations:
-Expand in Downtown but optimize costs to improve margins.
-Consider increasing presence in Residential & Airport areas for higher margins.
-Invest in top cities (Cuidad de Mexico, Guadalajara, Monterrey) for stable growth.
+
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis4.png)
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis5.png)
