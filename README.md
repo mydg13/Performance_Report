@@ -38,4 +38,5 @@ The dataset, provided by Maven Analytics, includes three key tables:
 
 
 ## 2. Data Modelling
+![Data Modelling](https://github.com/mydg13/Performance_Report/blob/main/image/image0.png)
 
