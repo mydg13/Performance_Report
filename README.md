@@ -99,6 +99,8 @@ Revenue Share Analysis (2017 → 2018):
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
+![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
+
 
 
 
