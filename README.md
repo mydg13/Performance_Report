@@ -102,15 +102,15 @@ Profit Margin Fluctuations: Profit margin shows an inverse trend compared to rev
 
 ### 4.3 Product 
 
-Revenue Share Analysis (2017 → 2018):
+- Key Observations:
 
-- Art & Crafts: Increased significantly from 12.12% to 25.84%, more than doubling, indicating strong growth in demand.
-- Electronics: Dropped notably from 19.25% to 11.58%, confirming the decline in sales observed earlier.
-- Games: Decreased slightly from 16.42% to 14.34%, suggesting a shift in consumer interest towards other categories.
-- Sports & Outdoors: Remained relatively stable (14.96% → 15.12%), showing no significant change.
-- Toys: Declined from 37.25% to 33.12%, but still holds the largest share, reaffirming its critical role in total revenue.
+     - Art & Crafts: Increased significantly from 12.12% to 25.84%, more than doubling, indicating strong growth in demand.
+     - Electronics: Dropped notably from 19.25% to 11.58%, confirming the decline in sales observed earlier.
+     - Games: Decreased slightly from 16.42% to 14.34%, suggesting a shift in consumer interest towards other categories.
+     - Sports & Outdoors: Remained relatively stable (14.96% → 15.12%), showing no significant change.
+     - Toys: Declined from 37.25% to 33.12%, but still holds the largest share, reaffirming its critical role in total revenue.
 
-🔹 Key Insight: The rapid growth of Art & Crafts and the decline in Electronics highlight shifting customer preferences, which could inform future business strategies.
+- Recommendations: The rapid growth of Art & Crafts and the decline in Electronics highlight shifting customer preferences, which could inform future business strategies.
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
