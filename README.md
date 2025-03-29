@@ -78,3 +78,7 @@ In contrast, the profit margin shows an inverse pattern, peaking at over 32% in 
 
 Nearly 60% of stores (29 out of 50) are located in the Downtown area. On average, Airport stores generate the highest daily revenue at $708, surpassing the other three areas. Airports appear to be a promising location for new stores, but further analysis is needed.
 
+![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis4.png)
+![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis5.png)
+
+
