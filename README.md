@@ -115,11 +115,11 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
 - Key Observations:
-     - $0–$5: Low revenue but highest profit margin → likely due to low cost or high volume sales.
+     - $0–$5: Low revenue but highest profit margin
 
-     - $15–$20: High revenue but low margin (21%) → possibly due to high costs or competitive pricing.
+     - $15–$20: High revenue but low margin (21%)
 
-     - $30+: Lowest margin (13%) → may be due to higher production or marketing costs.
+     - $30+: Lowest margin (13%) 
 
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
