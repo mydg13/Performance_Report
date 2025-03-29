@@ -38,5 +38,9 @@ The dataset, provided by Maven Analytics, includes three key tables:
 
 
 ## 2. Data Modelling
+Create a date table spanning the earliest to the latest date in the sales data.
+
+Establish one-to-many relationships between dimension tables and the fact table.
+
 ![Data Modelling](https://github.com/mydg13/Performance_Report/blob/main/image/image0.png)
 
