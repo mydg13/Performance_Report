@@ -99,6 +99,14 @@ Revenue Share Analysis (2017 → 2018):
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
+The $15 - $20 range generates the highest revenue ($2.38M), followed by $10 - $15 ($1.56M).
+
+$0 - $5 has the highest profit margin (41%), while $30+ has the lowest (13%).
+
+High revenue ≠ high profit margin: $20 - $25 has low revenue but a strong 36% margin.
+
+Balancing sales volume and profit margin is key for maximizing profitability.
+
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
 
 
