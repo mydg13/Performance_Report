@@ -65,10 +65,21 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ## 4 . Insight & Recommendation 
 
 ### 4.1. Overall 
+Revenue, Profit & Profit Margin Analysis (2017–2018)
+- Revenue & Profit Trend:
 
-Total sales and profit follow a similar trend: a slight rise from March to May, a drop in August and September, and a peak in December (holiday season: Christmas, New Year).
+Revenue and profit follow a similar pattern, with noticeable peaks in December (holiday season: Christmas, New Year).
 
-In contrast, the profit margin shows an inverse pattern, peaking at over 32% in August 2017 before gradually declining over time while remaining above 25%.
+A moderate increase is observed between March and May, followed by a decline in August and September.
+
+- Profit Margin Fluctuations:
+
+Profit margin shows an inverse trend compared to revenue.
+
+It peaked at 32.47% in August 2017 and gradually declined over time, stabilizing around 26-27% in mid to late 2018.
+
+🔹 Key Insight: While revenue and profit increased during peak seasons, the declining profit margin suggests rising costs or pricing adjustments. The company may need to analyze cost structures to maintain profitability.
+
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis1.png)
 
 
