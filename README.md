@@ -60,3 +60,6 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ### 3.4 Products Performance
 
 ![Products Performance](https://github.com/mydg13/Performance_Report/blob/main/image/image4.png)
+
+
+## 4 . Insight & Recommendation 
