@@ -35,3 +35,7 @@ The dataset, provided by Maven Analytics, includes three key tables:
 |Store_ID|Store ID|
 |Product_ID|Product ID|
 |Units|Units sold|
+
+
+## 2. Data Modelling
+
