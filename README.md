@@ -121,11 +121,10 @@ Establish one-to-many relationships between dimension tables and the fact table.
 
      - $30+: Lowest margin (13%) 
 
-
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
 
 
-
+Some recommendation : The company should diversify its product portfolio, focusing on the Electronics category due to its high profit margins. It should also analyze pricing strategies and the relationship between price, revenue, and profit to optimize overall performance.
 
 
 
