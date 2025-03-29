@@ -97,7 +97,7 @@ Revenue Share Analysis (2017 → 2018):
 
 🔹 Key Insight: The rapid growth of Art & Crafts and the decline in Electronics highlight shifting customer preferences, which could inform future business strategies.
 
-
+![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
 
 
