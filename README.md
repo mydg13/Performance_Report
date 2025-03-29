@@ -1,5 +1,12 @@
 # Performance_Report
+---
 
+1. [Dataset](#1-dataset)  
+2. [Data Modelling](#2-data-modelling)  
+3. [Performance Report](#3-performance-report)  
+4. [Insight & Recommendation](#4-insight--recommendation)  
+  
+--- 
 
 ## 1. Dataset
 The dataset, provided by Maven Analytics, includes three key tables:
