@@ -65,7 +65,7 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ## 4 . Insight & Recommendation 
 
 ### 4.1. Overall 
-*** Revenue, Profit & Profit Margin Analysis (2017–2018)***
+Revenue, Profit & Profit Margin Analysis (2017–2018)
 - Revenue & Profit Trend:
   Revenue and profit follow a similar pattern, with noticeable peaks in December (holiday season: Christmas, New Year).
   A moderate increase is observed between March and May, followed by a decline in August and September.
