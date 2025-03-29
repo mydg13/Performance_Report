@@ -75,6 +75,8 @@ Revenue, Profit & Profit Margin Analysis (2017–2018)
     It peaked at 32.47% in August 2017 and gradually declined over time, stabilizing around 26-27% in mid to late 2018.
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis1.png)
 
+While revenue and profit increased during peak seasons, the declining profit margin suggests rising costs or pricing adjustments. The company may need to analyze cost structures to maintain profitability.
+
 
 ### 4.2 Store 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis2.png)
