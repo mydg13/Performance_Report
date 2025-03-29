@@ -114,13 +114,13 @@ Establish one-to-many relationships between dimension tables and the fact table.
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis6.png)
 
-The $15 - $20 range generates the highest revenue ($2.38M), followed by $10 - $15 ($1.56M).
+- Key Observations:
+     - $0–$5: Low revenue but highest profit margin → likely due to low cost or high volume sales.
 
-$0 - $5 has the highest profit margin (41%), while $30+ has the lowest (13%).
+     - $15–$20: High revenue but low margin (21%) → possibly due to high costs or competitive pricing.
 
-High revenue ≠ high profit margin: $20 - $25 has low revenue but a strong 36% margin.
+     - $30+: Lowest margin (13%) → may be due to higher production or marketing costs.
 
-Balancing sales volume and profit margin is key for maximizing profitability.
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
 
