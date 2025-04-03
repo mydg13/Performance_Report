@@ -139,7 +139,7 @@ In contrast, 2018 experienced more months of significant decline, especially in 
      - Evaluate pricing strategies for mid-range and high-priced products to enhance profitability.
 
 
-### Final Conclusion
+### 5.Final Conclusion
 
 Revenue & profit trends are seasonal, with peaks in holiday months but a declining profit margin over time.
 
