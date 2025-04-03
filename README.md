@@ -103,7 +103,9 @@ Establish one-to-many relationships between dimension tables and the fact table.
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis2.png)
 
 
+Overall, 2017 performed better than 2018, as there were some months of decline, but a recovery occurred towards the end of the year.
 
+In contrast, 2018 experienced more months of significant decline, especially in October.
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis4.png)
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis5.png)
 
