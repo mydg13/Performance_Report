@@ -132,8 +132,22 @@ In contrast, 2018 experienced more months of significant decline, especially in 
 
 ![Analysis Report](https://github.com/mydg13/Performance_Report/blob/main/image/image_analysis7.png)
 
+- Recommendations:
+
+     - Promote lower-priced products to maximize profit margins.
+
+     - Evaluate pricing strategies for mid-range and high-priced products to enhance profitability.
+
 
 Some recommendation : The company should diversify its product portfolio, focusing on the Electronics category due to its high profit margins. It should also analyze pricing strategies and the relationship between price, revenue, and profit to optimize overall performance.
 
+**Final Conclusion:**
 
+Revenue & profit trends are seasonal, with peaks in holiday months but a declining profit margin over time.
+
+Downtown stores generate the most revenue but need cost optimization, while Residential & Airport stores offer better margins.
+
+Art & Crafts is a rapidly growing segment, while Electronics is declining, requiring strategic focus.
+
+Price ranges impact profitability significantly, necessitating optimized pricing strategies.
 
